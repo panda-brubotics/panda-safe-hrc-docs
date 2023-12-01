@@ -20,15 +20,15 @@ We want to provide a ROS-based open source code framework that enables users to 
     <a href="https://www.sciencedirect.com/science/article/pii/S0736584521001022?via%3Dihub" target="_blank">   (article) </a>
 
 
-.. figure:: safeHRC-ERG-vicon.png
-   :scale: 50%
-   :align: center
+.. .. figure:: safeHRC-ERG-vicon.png
+..    :scale: 50%
+..    :align: center
 
    We show how a robotic manipulator can reactively avoid collisions with a human by employing the trajectory-based Explicit Reference Governor (ERG) and the Vicon motion capture system. |article_safeHRC_ERG_vicon| |youtube_safeHRC_ERG_vicon| 
 
 
-.. figure:: safeHRC-RRT-ERG-ZED2.png
-   :align: center
+.. .. figure:: safeHRC-RRT-ERG-ZED2.png
+..    :align: center
 
    We show how a robotic manipulator can reactively reach its end-effector pose references and avoid collisions with the static cluttered environment and humans by employing a Rapidly-exploring Random Tree (RRT) and trajectory-based ERG algorithm, using the Stereolabs ZED2 camera to detect the obstacles. 
 
@@ -52,19 +52,11 @@ We want to provide a ROS-based open source code framework that enables users to 
 ..   *  change the link to the GitHub repo in all the code block bashes 
 
 
------------------
-Contents
------------------
+.. -----------------
+.. Contents
+.. -----------------
 
-.. .. toctree::
-..    :maxdepth: 1
 
-..    doc/introduction/introduction
-..    doc/panda_system/panda_system
-..    doc/simulation/simulation
-..    doc/software/software
-..    doc/hardware/hardware
-..    doc/archive/archive
 
 -----------------
 References
