@@ -91,4 +91,13 @@ This work is supported by the EU H2020 project SOPHIA (grant number 871237), the
    :align: center
 
 
+|pic1| any text |pic2|
+
+.. |pic1| image:: eurobin.png
+   :width: 45%
+
+.. |pic2| image:: sophia.svg
+   :width: 45%
+
+
 
