@@ -47,6 +47,7 @@ Table of contents
    :maxdepth: 1
 
    introduction/introduction
+   panda_system/panda_system
 
 -----------------
 References
