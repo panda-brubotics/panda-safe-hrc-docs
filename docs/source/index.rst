@@ -74,6 +74,9 @@ Acknowledgement
 -----------------
 This work is supported by the EU H2020 project SOPHIA (grant number 871237), the Flemish Government under the program *Onderzoeksprogramma Artificiële Intelligentie (AI) Vlaanderen*, and the EU Horizon Europe Framework Programme euROBIN (grant number 101070596). 
 
+.. figure:: eurobin.png
+   :scale: 50%
+   :align: center
 
 
 
