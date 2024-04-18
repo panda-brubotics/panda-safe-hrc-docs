@@ -78,15 +78,18 @@ This work is supported by the EU H2020 project SOPHIA (grant number 871237), the
 
 .. |pic1| image:: sophia.svg 
    :width: 15%
+   :target: https://project-sophia.eu/
 
 .. |pic2| image:: AIFlanders.png
    :width: 20%
+   :target: https://www.flandersairesearch.be/en
 
 .. |pic3| image:: fwo.png
-   :width: 20%
+   :width: 18%
+   :target: https://www.fwo.be/en/
 
 .. |pic4| image:: eurobin.png
-   :width: 25%
+   :width: 27%
    :target: https://www.eurobin-project.eu/
 
 
