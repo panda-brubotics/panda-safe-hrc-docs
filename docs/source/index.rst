@@ -37,7 +37,7 @@ We want to provide a ROS-based open source code framework that enables users to 
 .. figure:: safeHRC-RRT-ERG-ZED2.png
    :align: center
 
-   We show how a robotic manipulator can reactively reach its end-effector pose references and avoid collisions with the static cluttered environment and humans by employing a Rapidly-exploring Random Tree (RRT) and trajectory-based ERG algorithm, using the Stereolabs ZED2 camera to detect the obstacles. |youtube_safeHRC_ERG_ZED| |article_safeHRC_ERG_ZED|
+   We show how a robotic manipulator can reactively reach its end-effector pose references and avoid collisions with the static cluttered environment and humans by employing a Rapidly-exploring Random Tree (RRT) and trajectory-based ERG algorithm, using the Stereolabs ZED2 camera to detect the obstacles. |article_safeHRC_ERG_ZED| |youtube_safeHRC_ERG_ZED| 
 
 -----------------
 Table of contents
