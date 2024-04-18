@@ -87,6 +87,7 @@ This work is supported by the EU H2020 project SOPHIA (grant number 871237), the
 
 .. |pic4| image:: eurobin.png
    :width: 25%
+   :target: https://www.eurobin-project.eu/
 
 
 
