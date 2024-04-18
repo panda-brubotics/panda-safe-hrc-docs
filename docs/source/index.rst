@@ -48,6 +48,7 @@ Table of contents
 
    introduction/introduction
    panda_system/panda_system
+   simulation/simulation
 
 -----------------
 References
