@@ -1,3 +1,6 @@
+.. role:: raw-html(raw)
+    :format: html
+
 Safe Human-Robot Collaboration
 ==============================
 
@@ -7,6 +10,10 @@ We want to provide a ROS-based open source code framework that enables users to 
             The GitHub repository, https://github.com/panda-brubotics, we are referring to is still private, but will be made public when all relevant articles are published.  
             People from VUB and CU Boulder that are invited to the private repo may not share the content with others.
             For questions, you can always contact Kelly Merckaert: kelly.merckaert@vub.be.
+
+.. |youtube_safeHRC_ERG_vicon| raw:: html
+
+    <a href="https://youtu.be/UzbhMzcKSbE?si=UJyQCnraBKLG9WBJ" target="_blank">   (video) </a>
 
 .. figure:: safeHRC-ERG-vicon.png
    :scale: 50%
