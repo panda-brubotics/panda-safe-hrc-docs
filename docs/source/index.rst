@@ -78,5 +78,9 @@ This work is supported by the EU H2020 project SOPHIA (grant number 871237), the
    :scale: 50%
    :align: center
 
+.. figure:: sophia.svg
+   :scale: 50%
+   :align: center
+
 
 
