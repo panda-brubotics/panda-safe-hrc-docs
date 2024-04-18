@@ -26,6 +26,20 @@ We want to provide a ROS-based open source code framework that enables users to 
 
    We show how a robotic manipulator can reactively avoid collisions with a human by employing the trajectory-based Explicit Reference Governor (ERG) and the Vicon motion capture system. |article_safeHRC_ERG_vicon| |youtube_safeHRC_ERG_vicon| 
 
+.. |youtube_safeHRC_ERG_ZED| raw:: html
+
+    <a href="https://youtu.be/Bexqb_9MLGI?si=Fd_Tj4uIaSakBDPw" target="_blank">   (video) </a>
+
+.. |article_safeHRC_ERG_ZED| raw:: html
+
+    <a href="https://www.sciencedirect.com/science/article/pii/S0736584523001862" target="_blank">   (article) </a>
+
+.. figure:: safeHRC-RRT-ERG-ZED2.png
+   :align: center
+
+   We show how a robotic manipulator can reactively reach its end-effector pose references and avoid collisions with the static cluttered environment and humans by employing a Rapidly-exploring Random Tree (RRT) and trajectory-based ERG algorithm, using the Stereolabs ZED2 camera to detect the obstacles. |youtube_safeHRC_ERG_ZED| |article_safeHRC_ERG_ZED|
+
+
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
 It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
