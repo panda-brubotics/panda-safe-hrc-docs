@@ -50,6 +50,7 @@ Table of contents
    panda_system/panda_system
    simulation/simulation
    hardware/hardware
+   archive/archive
 
 -----------------
 References
