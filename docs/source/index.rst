@@ -15,11 +15,16 @@ We want to provide a ROS-based open source code framework that enables users to 
 
     <a href="https://youtu.be/UzbhMzcKSbE?si=UJyQCnraBKLG9WBJ" target="_blank">   (video) </a>
 
+.. |article_safeHRC_ERG_vicon| raw:: html
+
+    <a href="https://www.sciencedirect.com/science/article/pii/S0736584521001022?via%3Dihub" target="_blank">   (article) </a>
+
+
 .. figure:: safeHRC-ERG-vicon.png
    :scale: 50%
    :align: center
 
-   We show how a robotic manipulator can reactively avoid collisions with a human by employing the trajectory-based Explicit Reference Governor (ERG) and the Vicon motion capture system. 
+   We show how a robotic manipulator can reactively avoid collisions with a human by employing the trajectory-based Explicit Reference Governor (ERG) and the Vicon motion capture system. |article_safeHRC_ERG_vicon| |youtube_safeHRC_ERG_vicon| 
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
