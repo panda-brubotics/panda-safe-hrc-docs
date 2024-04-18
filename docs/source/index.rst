@@ -43,6 +43,11 @@ We want to provide a ROS-based open source code framework that enables users to 
 Table of contents
 -----------------
 
+.. toctree::
+   :maxdepth: 1
+
+   introduction/introduction
+
 -----------------
 References
 -----------------
