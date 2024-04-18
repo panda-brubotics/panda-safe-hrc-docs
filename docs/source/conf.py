@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Safe HRC with Panda robot'
+copyright = '2024, Kelly Merckaert'
+author = 'Kelly Merckaert'
 
 release = '0.1'
 version = '0.1.0'
