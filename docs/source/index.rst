@@ -74,27 +74,10 @@ Acknowledgement
 -----------------
 This work is supported by the EU H2020 project SOPHIA (grant number 871237), the Flemish Government under the program *Onderzoeksprogramma Artificiële Intelligentie (AI) Vlaanderen*, and the EU Horizon Europe Framework Programme euROBIN (grant number 101070596). 
 
-.. figure:: eurobin.png
-   :scale: 50%
-   :align: center
-
-.. figure:: sophia.svg
-   :scale: 50%
-   :align: center
-
-.. figure:: AIFlanders.png
-   :scale: 50%
-   :align: center
-
-.. figure:: fwo.png
-   :scale: 50%
-   :align: center
-
-
 |pic1| |pic2| |pic3| |pic4|
 
 .. |pic1| image:: sophia.svg 
-   :width: 20%
+   :width: 15%
 
 .. |pic2| image:: AIFlanders.png
    :width: 20%
@@ -102,8 +85,12 @@ This work is supported by the EU H2020 project SOPHIA (grant number 871237), the
 .. |pic3| image:: fwo.png
    :width: 20%
 
-.. |pic4| image:: eurobin.png
-   :width: 20%
+.. |pic4| figure:: eurobin.png
+   :width: 25%
+
+   https://www.eurobin-project.eu/
+
+
 
 
 
