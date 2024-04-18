@@ -91,13 +91,19 @@ This work is supported by the EU H2020 project SOPHIA (grant number 871237), the
    :align: center
 
 
-|pic1| any text |pic2|
+|pic1| |pic2| |pic3| |pic4|
 
-.. |pic1| image:: eurobin.png
-   :width: 45%
+.. |pic1| image:: sophia.svg 
+   :width: 20%
 
-.. |pic2| image:: sophia.svg
-   :width: 45%
+.. |pic2| image:: AIFlanders.png
+   :width: 20%
+
+.. |pic3| image:: fwo.png
+   :width: 20%
+
+.. |pic4| image:: eurobin.png
+   :width: 20%
 
 
 
