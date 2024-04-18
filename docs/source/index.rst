@@ -69,3 +69,11 @@ References
     <a href="https://doi.org/10.1016/j.rcim.2023.102711" target="_blank">10.1016/j.rcim.2023.102711</a>
 
 
+-----------------
+Acknowledgement
+-----------------
+This work is supported by the EU H2020 project SOPHIA (grant number 871237), the Flemish Government under the program *Onderzoeksprogramma Artificiële Intelligentie (AI) Vlaanderen*, and the EU Horizon Europe Framework Programme euROBIN (grant number 101070596). 
+
+
+
+
