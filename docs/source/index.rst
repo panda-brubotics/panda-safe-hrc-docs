@@ -8,6 +8,12 @@ We want to provide a ROS-based open source code framework that enables users to 
             People from VUB and CU Boulder that are invited to the private repo may not share the content with others.
             For questions, you can always contact Kelly Merckaert: kelly.merckaert@vub.be.
 
+.. figure:: safeHRC-ERG-vicon.png
+   :scale: 50%
+   :align: center
+
+   We show how a robotic manipulator can reactively avoid collisions with a human by employing the trajectory-based Explicit Reference Governor (ERG) and the Vicon motion capture system. 
+
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
 It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
