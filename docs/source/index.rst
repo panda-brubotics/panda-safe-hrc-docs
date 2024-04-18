@@ -39,6 +39,25 @@ We want to provide a ROS-based open source code framework that enables users to 
 
    We show how a robotic manipulator can reactively reach its end-effector pose references and avoid collisions with the static cluttered environment and humans by employing a Rapidly-exploring Random Tree (RRT) and trajectory-based ERG algorithm, using the Stereolabs ZED2 camera to detect the obstacles. |youtube_safeHRC_ERG_ZED| |article_safeHRC_ERG_ZED|
 
+-----------------
+Table of contents
+-----------------
+
+-----------------
+References
+-----------------
+
+[1] K. Merckaert, B. Convens, C. Wu, A. Roncone, M. M. Nicotra, and B. Vanderborght, **Real-time motion control of robotic manipulators for safe human-robot coexistence**, *Robotics and Computer-Integrated Manufacturing*, vol. 73, pp. 102223, Feb. 2022, |10.1016/j.rcim.2021.102223|.
+
+[2] K. Merckaert, B. Convens, M. M. Nicotra, and B. Vanderborght, **Real-Time Constraint-Based Planning and Control of Robotic Manipulators for Safe Human-Robot Collaboration**, *Robotics and Computer-Integrated Manufacturing*, vol. 87, pp. 102711, June 2024, |10.1016/j.rcim.2023.102711|.
+
+.. |10.1016/j.rcim.2021.102223| raw:: html
+
+    <a href="https://doi.org/10.1016/j.rcim.2021.102223" target="_blank">10.1016/j.rcim.2021.102223</a>
+
+.. |10.1016/j.rcim.2023.102711| raw:: html
+
+    <a href="https://doi.org/10.1016/j.rcim.2023.102711" target="_blank">10.1016/j.rcim.2023.102711</a>
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
