@@ -72,7 +72,7 @@ References
 -----------------
 Acknowledgement
 -----------------
-This work is supported by the EU H2020 project SOPHIA (grant number 871237), the Flemish Government under the program *Onderzoeksprogramma Artificiële Intelligentie (AI) Vlaanderen*, and the EU Horizon Europe Framework Programme euROBIN (grant number 101070596). 
+This work is supported by the EU H2020 project SOPHIA (grant number 871237), the Flemish Government under the program *Onderzoeksprogramma Artificiële Intelligentie (AI) Vlaanderen*, the FWO Junior Postdoctoral fellowship (grant number 1283624N), and the EU Horizon Europe Framework Programme euROBIN (grant number 101070596). 
 
 |pic1| |pic2| |pic3| |pic4|
 
